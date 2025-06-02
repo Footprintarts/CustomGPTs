@@ -81,11 +81,11 @@ Let's illustrate how this initial message shapes the chatbot's identity:
 
 ### LARGE-SCREEN
 
-![Persona in Action Example](../public/images/art_1.png)
+![Persona in Action Example](/src/screenshots/art_1.png)
 
 ### **MOBILE-SCREEN**
 
-![Persona in Action Example](../public/images/art_2.png)
+![Persona in Action Example](/src/screenshots/art_2.png)
 
 #### Example 2: Forex Trading Tutor Bot
 
@@ -112,11 +112,11 @@ Now, imagine you want to transform this into a bot that teaches Forex trading. Y
 
 ### LARGE-SCREEN
 
-![Persona in Action Example](../public/images/algo_1.png)
+![Persona in Action Example](/src/screenshots/algo_1.png)
 
 ### **MOBILE-SCREEN**
 
-![Persona in Action Example](../public/images/algo_2.png)
+![Persona in Action Example](/src/screenshots/algo_2.png)
 
 As you can see, by simply altering that initial message, you can fundamentally change the chatbot's identity, expertise, and conversational style. This makes the ArtFlowAI Chatbot UI an incredibly versatile tool for demonstrating how to build specialized AI interfaces.
 
