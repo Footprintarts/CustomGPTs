@@ -79,6 +79,14 @@ Let's illustrate how this initial message shapes the chatbot's identity:
 - **ArtFlowAI:** "My purpose is to spark your imagination and assist you with artistic ideation, style exploration, concept development, and more. Think of me as your digital muse!"  
    (The response directly relates to its defined purpose.)
 
+### LARGE-SCREEN
+
+![Persona in Action Example](../public/images/art_1.png)
+
+### **MOBILE-SCREEN**
+
+![Persona in Action Example](../public/images/art_2.png)
+
 #### Example 2: Forex Trading Tutor Bot
 
 Now, imagine you want to transform this into a bot that teaches Forex trading. You'd simply change that initial model message.
@@ -102,11 +110,19 @@ Now, imagine you want to transform this into a bot that teaches Forex trading. Y
 - **AlgoFX:** "My purpose is to educate you on Forex trading concepts, strategies, risk management, and market analysis. I'm here to help you build a solid understanding of the currency exchange world."  
    (The purpose is entirely different, reflecting the new domain.)
 
+### LARGE-SCREEN
+
+![Persona in Action Example](../public/images/algo_1.png)
+
+### **MOBILE-SCREEN**
+
+![Persona in Action Example](../public/images/algo_2.png)
+
 As you can see, by simply altering that initial message, you can fundamentally change the chatbot's identity, expertise, and conversational style. This makes the ArtFlowAI Chatbot UI an incredibly versatile tool for demonstrating how to build specialized AI interfaces.
 
 ---
 
-🟢 **SHORT VIDEO (less than 2 min):** This will be a fantastic point to showcase in your demo video, my G! It truly highlights the flexibility and power of integrating LLMs with a custom frontend.
+🟢 **SHORT VIDEO (less than 2 min):**--HERE---
 
 ## 📂 Project Structure
 
