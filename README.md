@@ -85,7 +85,7 @@ Let's illustrate how this initial message shapes the chatbot's identity:
 
 ### **MOBILE-SCREEN**
 
-![Persona in Action Example](/src/screenshots/art_2.png)
+![Persona in Action ](/src/screenshots/art_2.png)
 
 #### Example 2: Forex Trading Tutor Bot
 
