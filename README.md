@@ -6,20 +6,20 @@ The ArtFlowAI Chatbot UI is designed to be a flexible foundation, allowing you t
 
 As highlighted in this README.md, you can customize several aspects of this project:
 
-**UI/UX (Visuals & Layout):**
+**I. UI/UX (Visuals & Layout):**
 
 - Modify `src/index.css` to change global styles, colors, and fonts.
 - Adjust Tailwind CSS classes directly within components (`src/components/`) to fine-tune layout, spacing, and element appearance.
 
-**Welcome Cards (Initial Prompts):**
+**II. Welcome Cards (Initial Prompts):**
 
 - Update the `cardData` array in `src/components/WelcomeScreen.js` to offer different initial conversation starters relevant to your chatbot's new purpose.
 
-**AI Model (Integration Point):**
+**III. AI Model (Integration Point):**
 
 - The `handleSendMessage` function in `src/App.js` is where the API call to the Gemini model happens. You can modify this to integrate with other AI models or even your own custom backend services if needed.
 
-**Animations:**
+**IV. Animations:**
 
 - Leverage the included GSAP library to add more complex and engaging UI animations beyond the basic typing effect.
 
