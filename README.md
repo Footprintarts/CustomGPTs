@@ -187,6 +187,8 @@ Since almost everyone has a Google account, getting started with the Gemini API 
    - Open your web browser and go to: https://aistudio.google.com/
    - You'll likely be prompted to sign in with your existing Google account.
 
+![GoogleAI Studio UI](/src/screenshots/aistudio.png)
+
 2. **Create a New Project (if prompted):**
 
    - If this is your first time using Google AI Studio, you might be asked to create a new project. Follow the on-screen instructions to set it up. This is a quick process.
@@ -194,18 +196,21 @@ Since almost everyone has a Google account, getting started with the Gemini API 
 3. **Access the "Get API Key" Section:**
 
    - Once you're in the Google AI Studio interface, look for a prominent button or navigation link that says "Get API key" or similar. It's usually visible on the main dashboard or in the left-hand sidebar.
-   - (You'll add a screenshot here, e.g., "Screenshot 1: Location of 'Get API key' button")
+
+![GoogleAI Studio UI](/src/screenshots/get-key.png)
 
 4. **Generate Your API Key:**
 
    - Click on "Create API key in new project" (recommended for better organization and security practices). If you have existing projects, you might also see an option to create a key in an existing one.
-   - (You'll add a screenshot here, e.g., "Screenshot 2: 'Create API key in new project' option")
+
+![GoogleAI Studio UI](/src/screenshots/create-key.png)
 
 5. **Copy Your API Key:**
 
    - A new API key will be generated and displayed. This is your unique, secret key!
    - Immediately copy this key to a secure location. You will not be able to view the full key again after you close this dialog.
-   - (You'll add a screenshot here, e.g., "Screenshot 3: Copy your generated API key")
+
+![GoogleAI Studio UI](/src/screenshots/copy-key.png)
 
 6. **Integrate into Your Project (.env file):**
 
