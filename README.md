@@ -1,10 +1,10 @@
-# 🎨 Chatbot Customization & The Power of Persona Messaging
+# <img src="./src/screenshots/Bot.svg" alt="chatbot_logo" style="width: 40px; max-width: 100%;" /> Chatbot Customization & The Power of Persona Messaging
 
 The ArtFlowAI Chatbot UI is designed to be a flexible foundation, allowing you to easily mold it into various AI-powered applications. While the UI provides a polished look and feel, the true magic of customization lies in how you define the AI's personality, knowledge, and purpose.
 
 ## 🛠️ Customization Overview
 
-As highlighted in the README.md, you can customize several aspects of this project:
+As highlighted in this README.md, you can customize several aspects of this project:
 
 **UI/UX (Visuals & Layout):**
 
@@ -25,7 +25,7 @@ As highlighted in the README.md, you can customize several aspects of this proje
 
 ---
 
-### 🗣️ The Power of the First Message: Persona & System Setting
+### ✨ The Power of the First Message: Persona & System Setting 🔑(KEY POINT)
 
 This is where the "ArtFlowAI" becomes your AI. In large language models (LLMs) like Gemini, the very first message you send to the model (or the initial messages in a conversation history) are incredibly powerful. They act as a system prompt or persona prompt, setting the stage for how the AI should behave, what its role is, and what kind of information it should focus on.
 
@@ -58,7 +58,7 @@ The LLM will then try its best to maintain this persona throughout the conversat
 
 Let's illustrate how this initial message shapes the chatbot's identity:
 
-#### Example 1: ArtFlowAI (Our Current Project)
+#### 🟣 Example 1: ArtFlowAI (Our Current Project)
 
 **Initial Persona Setting in App.js:**
 
@@ -87,7 +87,7 @@ Let's illustrate how this initial message shapes the chatbot's identity:
 
 ![Persona in Action ](/src/screenshots/art_2.png)
 
-#### Example 2: Forex Trading Tutor Bot
+#### 🟢 Example 2: Forex Trading Tutor Bot
 
 Now, imagine you want to transform this into a bot that teaches Forex trading. You'd simply change that initial model message.
 
@@ -122,7 +122,9 @@ As you can see, by simply altering that initial message, you can fundamentally c
 
 ---
 
-🟢 **SHORT VIDEO (less than 2 min):**--HERE---
+[![Watch this short video (see how it works)](https://img.youtube.com/vi/xZcPFr7vrH0/hqdefault.jpg)](https://youtu.be/xZcPFr7vrH0)
+
+🟢 **Watch this short video (see how it works):** [https://youtu.be/xZcPFr7vrH0](https://youtu.be/xZcPFr7vrH0)
 
 ## 📂 Project Structure
 
@@ -208,7 +210,7 @@ Since almost everyone has a Google account, getting started with the Gemini API 
 5. **Copy Your API Key:**
 
    - A new API key will be generated and displayed. This is your unique, secret key!
-   - Immediately copy this key to a secure location. You will not be able to view the full key again after you close this dialog.
+   - Immediately copy this key to a secure location ,don't share it in public. You will be able to view the full key again after you close this dialog.
 
 ![GoogleAI Studio UI](/src/screenshots/copy-key.png)
 
