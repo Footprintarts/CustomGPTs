@@ -266,3 +266,10 @@ We extend our gratitude to the creators and maintainers of the following technol
 - **Tailwind CSS:** For its utility-first CSS framework that enables rapid UI development.
 - **GSAP (GreenSock Animation Platform):** For its robust and high-performance animation capabilities.
 - **Placehold.co:** For convenient placeholder images during development.
+
+---
+
+## ⭐️ If You Found This Useful...
+
+**Support us by giving a ⭐️ on [GitHub](https://github.com/Footprintarts/CustomGPTs.git)!**  
+Your feedback and stars help others discover this project and encourage further development.
